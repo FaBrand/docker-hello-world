@@ -1,4 +1,4 @@
-# docker-hello-world
+# Docker Hello World
 This is just a place where i put the stuff that i did during the basic docker tutorial.
 Easier to recall :)
 ## Install docker
